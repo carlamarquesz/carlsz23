@@ -12,10 +12,10 @@ Meu nome Ã© **Carla Marques**, tenho 23 anos, sou estudante de Engenharia EletrÃ
 
 
 <a href="https://github.com/carlsz23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlsz23&theme=buefy&layout=compact" height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlsz23&theme=buefy&layout=compact" height="150" />
 </a>
 <a href="https://github.com/carlsz23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlsz23&theme=buefy&show_icons=true" height="180"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlsz23&theme=buefy&show_icons=true" height="150"/>
 </a>
 
 
@@ -49,6 +49,6 @@ Meu nome Ã© **Carla Marques**, tenho 23 anos, sou estudante de Engenharia EletrÃ
 
 <br/>
 
-<img align="center" src="https://2.bp.blogspot.com/-2os2xtMEviU/XHXvygl_SrI/AAAAAABERBQ/BCQ-RJ4MM9kiBl4Oz0d_1Y4sv5LlTYE4ACLcBGAs/s1600/AW3554685_00.gif" height="180"/>
+<img src="https://2.bp.blogspot.com/-2os2xtMEviU/XHXvygl_SrI/AAAAAABERBQ/BCQ-RJ4MM9kiBl4Oz0d_1Y4sv5LlTYE4ACLcBGAs/s1600/AW3554685_00.gif" height="180"/>
 
 > Obrigada por sua visita! :sparkling_heart:
