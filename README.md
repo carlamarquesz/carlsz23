@@ -1,7 +1,7 @@
 ## Olá! 👋
 <br/>
 
-Meu nome é **Carla Marques**, tenho 24 anos, sou estudante de Engenharia Eletrônica na UFRPE e estou em transição de carreira para Sistemas de Informação e assim, me tornar uma Desenvolvedora Front-end Sênior 💻.
+Meu nome é **Carla Marques**, tenho 24 anos, sou estudante de Engenharia Eletrônica na UFRPE e estou em transição de carreira para Sistemas de Informação e assim, me tornar uma Desenvolvedora Front-end 💻.
 
 
 - :house_with_garden: Moro em Recife - PE.
