@@ -1,7 +1,7 @@
 ## Olá! 👋
 <br/>
 
-Meu nome é **Carla Marques**, tenho 23 anos, sou estudante de Engenharia Eletrônica na UFRPE e estou em transição de carreira para Sistemas de Informação e assim, me tornar uma Desenvolvedora Front-end Sênior 💻.
+Meu nome é **Carla Marques**, tenho 24 anos, sou estudante de Engenharia Eletrônica na UFRPE e estou em transição de carreira para Sistemas de Informação e assim, me tornar uma Desenvolvedora Front-end Sênior 💻.
 
 
 - :house_with_garden: Moro em Recife - PE.
@@ -26,12 +26,21 @@ Meu nome é **Carla Marques**, tenho 23 anos, sou estudante de Engenharia Eletr�
 
 ## Cursos
 
-- [Origamid 🐺](https://www.origamid.com/)
+- [Origamid | Front-END 🐺](https://www.origamid.com/)
 - [Domestika | Design de interfaces para sites e aplicativos](https://www.domestika.org/pt/courses/1456-design-de-interfaces-para-sites-e-aplicativos)
 
 
 <br/>
- 
+
+## Projetos
+
+[<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />](https://carlsz.itch.io/) 
+[![PORTFOLIO](https://img.shields.io/badge/Portfólio-792EE5?style=for-the-badge&)](#)
+
+
+
+
+<br/>
 
 ## Skills
 
@@ -44,7 +53,9 @@ Meu nome é **Carla Marques**, tenho 23 anos, sou estudante de Engenharia Eletr�
 
 ## Me encontre aqui 👇🏻
 
-[![Github Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carla_xd/?hl=pt-br) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carla-marquesz/)
+[![Github Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carla_xd/?hl=pt-br) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carla-marquesz/) [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://www.linkedin.com/in/carla-marquesz/)
+
+
 
 
 <br/>
