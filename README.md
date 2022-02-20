@@ -1,16 +1,6 @@
 ## Olá! 👋
 <br/>
 
-Meu nome é **Carla Marques**, tenho 24 anos, sou estudante de Engenharia Eletrônica na UFRPE e estou em transição de carreira para Sistemas de Informação e assim, me tornar uma Desenvolvedora Front-end 💻.
-
-
-- :house_with_garden: Moro em Recife - PE.
-- :computer: Front-End Jr.
-- 😄 Aberta a desafios para a minha evolução como Developer.
- <br/>
-
-
-
 <a href="https://github.com/carlsz23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlsz23&theme=buefy&layout=compact" height="150" />
 </a>
